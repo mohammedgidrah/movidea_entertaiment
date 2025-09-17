@@ -12,6 +12,10 @@ return [
     | and used as needed; however, this mailer will be used by default.
     |
     */
+'contact_to' => [
+    'address' => env('MAIL_CONTACT_TO_ADDRESS', 'm7mdgidrah@gmail.com'),
+    'name' => env('MAIL_CONTACT_TO_NAME', 'Contact Form Recipient'),
+],
 
     'default' => env('MAIL_MAILER', 'smtp'),
 
