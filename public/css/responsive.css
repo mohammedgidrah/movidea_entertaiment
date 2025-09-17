@@ -543,7 +543,7 @@
     }
 }
 
-@media (min-width: 960px) and (max-width: 1023px) {
+@media (min-width: 960px) and (max-width: 1023.5px) {
     .sc_call_to_action_style_2 .sc_call_to_action_descr {
         max-width: 350px;
         padding-left: 3em;
@@ -878,7 +878,7 @@
     }
 }
 
-@media (min-width: 768px) and (max-width: 959px) {
+@media (min-width: 768px) and (max-width: 959.5px) {
     .sc_call_to_action_style_2 .sc_call_to_action_descr {
         max-width: 450px;
         padding-left: 0;
@@ -1456,7 +1456,7 @@
     }
 }
 
-@media (min-width: 640px) and (max-width: 767px) {
+@media (min-width: 640px) and (max-width: 767.5px) {
     .sc_call_to_action_style_2 .sc_call_to_action_descr {
         max-width: 450px;
         padding-left: 0;
@@ -1645,13 +1645,10 @@
     .ih-item.square .info p {
         padding: 0.5em 0.4em !important;
     }
-    .ih-item.square {}
-    .sc_price_block .sc_price_block_description {
+     .sc_price_block .sc_price_block_description {
         height: 11em;
     }
-    .page-template-blog-learndash .post_item_excerpt:last-of-type .post_content {
-        /*margin-bottom: -6em;*/
-    }
+    
     .reviews_block .reviews_stars {
         width: 57%;
     }
@@ -1749,7 +1746,7 @@
     }
 }
 
-@media (min-width: 480px) and (max-width: 639px) {
+@media (min-width: 480px) and (max-width: 639.5px) {
     input[type="submit"],
     input[type="reset"],
     input[type="button"],
@@ -2081,7 +2078,7 @@
     }
 }
 
-@media (min-width: 480px) and (max-width: 767px) {
+@media (min-width: 480px) and (max-width: 767.5px) {
     html,
     body {
         font-size: 12px;
@@ -2823,7 +2820,7 @@
     }
 }
 
-@media (max-width: 479px) {
+@media (max-width: 479.5px) {
     .sc_skills_counter .column-1_4 {
         width: 50% !important;
         padding-top: 0 !important;
@@ -4054,7 +4051,7 @@
     }
 }
 
-@media (max-width: 639px) {
+@media (max-width: 639.5px) {
     .header_mobile .logo_main {
         height: 40px;
     }

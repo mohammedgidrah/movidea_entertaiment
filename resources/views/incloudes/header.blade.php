@@ -62,7 +62,7 @@
                                         <li class="menu-item" ><a href={{url('services')}}>Services</a></li>
                                         <li class="menu-item" ><a href={{url('gallery')}}>Gallery</a></li>
                                         <li class="menu-item" ><a href="#">Careers</a></li>
-                                        <li class="menu-item" ><a href="#">Contact</a></li>
+                                        <li class="menu-item" ><a href={{url('contact')}}>Contact</a></li>
 
                                         <!-- <li class="menu-item menu-item-has-children"><a href="#">Pages</a>
                                             <ul class="sub-menu">
@@ -185,7 +185,7 @@
                                         <li class="menu-item" ><a href={{url('services')}}>Services</a></li>
                                         <li class="menu-item" ><a href={{url('gallery')}}>Gallery</a></li>
                                         <li class="menu-item" ><a href="#">Careers</a></li>
-                                        <li class="menu-item" ><a href="#">Contact</a></li>
+                                        <li class="menu-item" ><a href={{url('contact')}}>Contact</a></li>
                                     </ul>
                                 </li>
                                 <!-- <li class="menu-item menu-item-has-children"><a href="#">About</a>

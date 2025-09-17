@@ -25,3 +25,6 @@ Route::get('/services', function () {
 Route::get('/gallery', function () {
     return view('gallery');
 });
+Route::get('/contact', function () {
+    return view('contact');
+});
